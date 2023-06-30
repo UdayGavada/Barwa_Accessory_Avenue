@@ -38,15 +38,6 @@ const Navbar = () => {
         </ul>
       </nav>
 
-      <form className="search-form" onSubmit={handleSearch}>
-        <input
-          type="text"
-          placeholder="Search..."
-          value={searchQuery}
-          onChange={handleSearchQueryChange}
-        />
-        <button className="search-button" type="submit">Search</button>
-      </form>
 
       <button type="button" className="cart-icon" onClick={() => setShowCart(true)}>
         <AiOutlineShopping />
