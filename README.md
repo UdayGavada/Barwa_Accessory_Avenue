@@ -1,110 +1,13 @@
-Introduction
-What I learn
-What I build
-What Packages I use
-Install Tools
-VS Code
-Chrome
-Git
-Node.js
-Create Next App
-npx create-next-app
-add @mui library
-Publish to github
-create githb account
-push to github from vs code
-Create Website Layout
-Add header
-Add main
-Add footer
-Connect to Sanity.io
-install sanity
-initialize sanity
-create product model
-insert sample data to product model
-List Products
-add localhost:3000 to the CORS origins in sanity
-fetch products from sanity
-render them in the screen
-Create Product Details Screen
-add [slug].js to product folder
-create component
-get slug from the url
-fetch product from sanity client
-render product image, info
-show add to cart button
-Create React Context
-define Context, Store and reducer
-set darkMode flag
-use it on layout
-Implement Add to cart
-define cart in context
-dispatch add to cart action
-set click event handler for button
-Create Cart Screen
-get cart items from context
-render in the screen
-show cart items in the header menu
-implement add to cart in home page
-Display Cart Badge In Header Menu
-add cart link to header
-show cart items badge in header
-implement add to cart in home page
-Create Login and Register Screen
-create login form
-create register for
-Implement User Register API
-create user model
-create user create route api
-use it in the register screen
-Implement User Login API
-create login api
-use login api in login screen
-implement logout
-Create Shipping Screen
-create shipping component
-get address fields
-implement submit handler
-handle redirect
-Create Payment Screen
-create payment component
-get payment method
-implement submit handler
-Create Place Order Screen
-create place order component
-preview order
-create order model in sanity
-create order on place order click handler
-Create Order Screen
-create order component
-display order information
-Pay Order By PayPal
-generate paypal client id
-create api to return client id
-install react-paypal-js
-use PayPalScriptProvider in index.js
-use usePayPalScriptReducer in Order Screen
-implement loadPaypalScript function
-render paypal button
-implement onApprove payment function
-create pay order api in backend
-Display Order History
-create order history component
-load orders of current user
-render orders in the screen
-Update User Profile
-create profile screen
-create input forms for name, email
-update user info
-Create Search Screen
-create search screen
-implement search filters
-list products
-Publish on Vercel
-create vercel account
-connect it to gitub
-add vercel domain to allow origin in sanity
-publish result# ecommerce_sanity_stripe
-rm yarn
-npm install --forceP
+Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that I can cover REAL payments.
 
+In this I learn:
+
+Advanced React Best Practices such as
+Folder and file structure, hooks and refs
+Advanced State Management of the entire application using React Context API
+Next.js Best Practices such as
+File-based routing, Data fetching that allows server-side rendering and static generation which makes Ir websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and I also learn how to use Next.js as a backend endpoint.
+I learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
+And most importantly I learn how to manage the entire content of Ir app using Sanity. Sanity is the unified content platform that make the making of our entire app possible.
+Through Sanity, I or Ir clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
+Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
