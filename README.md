@@ -1,7 +1,7 @@
 Introduction
-What you will learn
-What you will build
-What Packages you will use
+What I learn
+What I build
+What Packages I use
 Install Tools
 VS Code
 Chrome
