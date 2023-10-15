@@ -825,3 +825,45 @@ margin-top: 160px;
   margin: auto;
 }
 }
+
+/* About.css */
+
+.about-us {
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  background-color: #f0f0f0; /* Set your desired background color */
+}
+
+.about-us-content {
+  align-items: center;
+  padding: 20px;
+}
+
+.about-us h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+}
+
+.about-us p {
+  text-align: justify;
+  font-size: 16px;
+  color: #666;
+}
+
+.about-us ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.about-us-image {
+  flex: 1;
+  text-align: center;
+}
+
+.about-us-image img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+}
