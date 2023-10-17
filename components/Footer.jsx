@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer-container">
       <p>
         <a href="https://www.disclaimergenerator.net/live.php?token=AwbQaqJTsfWrygV7t00p9Q72tYsCeD6Y">
-          2023 Barwa All rights reserverd By UG
+          2023 Barwa All rights reserverd by Barwa
         </a>
       </p>
       <p className="icons">
