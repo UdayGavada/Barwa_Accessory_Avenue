@@ -28,26 +28,6 @@ This project is a fully responsive modern full-stack e-commerce application buil
   - Sanity CMS for product and content management
   - Stripe for payment and checkout handling
 
-## Learning Highlights
-
-### Advanced React Best Practices
-- **Folder Structure & Organization**: Modular and scalable folder structure for clean code and maintainability.
-- **Hooks & Refs**: Leveraging hooks for state and side effects management. Refs for directly accessing and manipulating DOM elements.
-- **React Context API**: Used for advanced global state management across the entire application, especially for cart functionalities.
-
-### Next.js Best Practices
-- **File-based Routing**: Simple and efficient routing system with dynamic routes for product pages.
-- **Server-side Rendering (SSR) & Static Generation (SSG)**: Utilizing `getServerSideProps`, `getStaticProps`, and `getStaticPaths` for efficient data fetching and rendering, providing optimized performance and SEO benefits.
-- **Backend API Integration**: Using Next.js API routes to act as a backend, handling server-side operations like fetching products and managing checkout.
-
-### Stripe Integration
-- **Real Payment Integration**: Stripe is used to handle real payments, including the management of products and shipping rates.
-- **Checkout Process**: Secure and smooth checkout process managed with Stripe’s API for both products and payments.
-
-### Sanity CMS
-- **Content Management**: Sanity is used to manage all product data, allowing you or your clients to edit product details and homepage content in real-time without code changes.
-- **Unified Content Platform**: Sanity handles content, file storage, and databases, enabling a scalable e-commerce solution without additional overhead.
-
 ## Getting Started
 
 ### Prerequisites
