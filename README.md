@@ -11,6 +11,11 @@ This project is a fully responsive modern full-stack e-commerce application buil
 - **Payments with Stripe**: Fully integrated payment system using Stripe for secure transactions, product management, and shipping rate calculation.
 - **Next.js Optimizations**: Server-side rendering (SSR), static site generation (SSG), and backend API routes for optimal performance.
 
+![image](https://github.com/user-attachments/assets/3daf7930-b1ab-475a-869a-6af45b1b2c72)
+![image](https://github.com/user-attachments/assets/1b1d1154-c9a9-45ba-a5c6-458c585ff38e)
+
+
+
 ## Tech Stack
 
 - **Frontend**: 
